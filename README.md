@@ -26,3 +26,6 @@ Tasks:
 * You should create a new directory. Move at least one file into that directory.
 	- Zack created /styles
 	- Zack moved styles.css into /styles
+
+* You should create an array of objects. Each object should have a name and age:
+    - Savannah created app.js and an array of objects that each have a name and age.
