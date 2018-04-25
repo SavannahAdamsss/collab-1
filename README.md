@@ -19,3 +19,6 @@ Tasks:
 * You should create a new HTML file. Link to it from index.html:
 	- Zack added bio.html
 	- Zack linked to bio.html from index.html.
+
+* You should remove a file other than index.html:
+    - Savannah removed about.html
