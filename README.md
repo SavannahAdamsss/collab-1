@@ -16,3 +16,6 @@ Tasks:
 * You should edit an HTML file. Add a paragraph about something you like:
     - Savannah added a paragraph to index.html.
 
+* You should create a new HTML file. Link to it from index.html:
+	- Zack added bio.html
+	- Zack linked to bio.html from index.html.
