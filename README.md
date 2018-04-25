@@ -22,3 +22,7 @@ Tasks:
 
 * You should remove a file other than index.html:
     - Savannah removed about.html
+
+* You should create a new directory. Move at least one file into that directory.
+	- Zack created /styles
+	- Zack moved styles.css into /styles
